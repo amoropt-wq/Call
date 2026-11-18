@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HaloAntri</string>
+    <string name="notification_listener_label">Penangkap Pesan HaloAntri</string>
+    <string name="tab_queue">Antrian</string>
+    <string name="tab_dial">Panggil</string>
+    <string name="tab_email">Email</string>
+    <string name="tab_accounts">Akun WA</string>
+    <string name="tab_capture">Pengaturan</string>
+    <string name="action_add_manual">Tambah Manual</string>
+    <string name="action_add_wa">Tambah Nomor WA</string>
+    <string name="action_call_next">Panggil Berikutnya</string>
+    <string name="stealth_mute_active">Bisu Senyap Aktif</string>
+    <string name="stealth_mute_inactive">Mikrofon Normal</string>
+    <string name="stealth_mute_hint">Mikrofon sistem dibisukan tanpa notifikasi bisu ke lawan bicara</string>
+</resources>
